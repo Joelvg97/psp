@@ -1,0 +1,10 @@
+[11/05/2026 11:15:07] INICIO DE SESIÓN DE DENUNCIA
+[11/05/2026 11:15:07] Usuario: Samer
+[11/05/2026 11:15:07] ---------------------------------
+[11/05/2026 11:15:07] SERVIDOR: Bienvenido/a Samer. Escribe tu denuncia o 'salir' para terminar.
+[11/05/2026 11:15:33] USUARIO: Han insultado a Ramón entre tres personas delante de mi
+[11/05/2026 11:15:52] SERVIDOR: Gracias por tu ayuda. Lo reportaremos al tutor
+[11/05/2026 11:16:51] USUARIO: salir
+[11/05/2026 11:16:51] SERVIDOR: Chat finalizado. Gracias por usar el canal de ayuda.
+[11/05/2026 11:16:51] FIN DE SESIÓN
+[11/05/2026 11:16:51] ----------------------------------
